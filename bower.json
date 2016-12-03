@@ -1,8 +1,8 @@
 {
-  "name": "vimeo-upload",
+  "name": "vimeo-upload-yuh",
   "main": "vimeo-upload.js",
-  "version": "0.1.5",
-  "homepage": "https://github.com/websemantics/vimeo-upload",
+  "version": "0.1.6",
+  "homepage": "https://github.com/websemantics/vimeo-upload-yuh",
   "authors": [
     "Adnan Sh. Sagar, PhD. <adnan@websemantics.ca>"
   ],
