@@ -2,9 +2,9 @@
   "name": "vimeo-upload-yuh",
   "main": "vimeo-upload.js",
   "version": "0.1.6",
-  "homepage": "https://github.com/websemantics/vimeo-upload-yuh",
+  "homepage": "https://github.com/diegoyuh/vimeo-upload",
   "authors": [
-    "Adnan Sh. Sagar, PhD. <adnan@websemantics.ca>"
+    "Diego Pancera dos Santos, Computer Scientist"
   ],
   "description": "Upload videos to your Vimeo account and update their metadata directly from a browser or a Node.js app.",
   "keywords": [
