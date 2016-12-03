@@ -162,7 +162,9 @@
         this.videoData = {
             name: (opts.name > '') ? opts.name : defaults.name,
             description: (opts.description > '') ? opts.description : defaults.description,
-            'privacy.view': opts.private ? 'unlisted' : 'anybody'
+            privacy: {
+                view: opts.private ? 'unlisted' : ''
+            }
         }
 
         if (!(this.url = opts.url)) {
